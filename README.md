@@ -62,6 +62,8 @@ LOG_KEYWORDS=ERROR,WARNING,CRITICAL
 
 ## Example Telegram Interaction
 
+![Telegram Bot Screenshot](assets/telegram_bot_screenshot.jpg)
+
 **User**: `/start`
 
 **Bot**:
